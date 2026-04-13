@@ -6,3 +6,4 @@ ollama
 google-api-python-client
 language-tool-python
 torch
+mutagen
