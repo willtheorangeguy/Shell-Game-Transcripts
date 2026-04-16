@@ -93,7 +93,7 @@ tags:
 pretty_name: All Shell Game Transcripts
 ---
 
-# All Shell Transcripts
+# All Shell Game Transcripts
 
 Complete transcripts from every episode of the Shell Game podcast from 2024 to present.
 
